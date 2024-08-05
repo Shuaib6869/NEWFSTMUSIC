@@ -70,10 +70,10 @@ def stream_markup(_, chat_id):
 
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/SUCHA_YAAR_1"
             ),
             InlineKeyboardButton(
-                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/TG_NAME_STYLE"
+                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+SCbwdGdESYEyYmM1"
             ),
         ],
     ]
@@ -107,10 +107,10 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
     buttons = [
         [
            InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/SUCHA_YAAR_1"
             ),
             InlineKeyboardButton(
-                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/TG_NAME_STYLE"
+                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+SCbwdGdESYEyYmM1"
             ),
 
         ],
@@ -135,10 +135,10 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
     buttons = [
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/SUCHA_YAAR_1"
             ),
             InlineKeyboardButton(
-                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/TG_NAME_STYLE"
+                text="❰𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+SCbwdGdESYEyYmM1"
             ),
         ],
         [
